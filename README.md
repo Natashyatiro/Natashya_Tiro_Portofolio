@@ -1,5 +1,3 @@
-# Natashya Suryani Tiro's Portofolio
-
 # [Automating Credit Approval](https://github.com/Natashyatiro/Automating-Credit-Approval)
 * Created a tool that predict loan amount and customer’s default based on customer’s age and income to help bank in automating their credit approval process.
 *	Optimized and compared Linear Regression, Decision Tree, Random Forest, GBoost, MLP Regressor, CNN, Random Forest Regressor Optimization to predict loan amount and to reach the best model using Python and Orange.
