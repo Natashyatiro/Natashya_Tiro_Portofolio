@@ -5,7 +5,7 @@
 *	The best model performance is by Regressor Optimization for Random Forest with 2456.62 RMSE in loan amount prediction, and Gradient Boosting with 85.88% accuracy in default prediction.
 * Built a client facing API using flask which can be accessed in this [Application Page](https://credit-approval-natashya.herokuapp.com).
 
-![](https://github.com/Natashyatiro/Natashya_Portofolio/blob/main/images/vis1.png)
+![](/images/vis1.png)
 ![](/images/vis2.png)
 
 ![](/images/resul2.png)
