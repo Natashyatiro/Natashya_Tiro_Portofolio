@@ -26,7 +26,7 @@
 *	Optimized and compared e Logistic Regression for Multicategory Y, CART, and Random Forest in R to reach the best model.
 * Random Forest performed best out of three with highest accuracy (99.6%) with both a low specificity and a low fall-out value. Not to mention, Random Forest in this study also outperformed models from previous research.
 
-![](https://github.com/Natashyatiro/Natashya_Portofolio/blob/main/images/Group%205%20Tableau%20Vfinal_page-0001.jpg)
+![](https://github.com/Natashyatiro/Natashya_Portofolio/blob/main/images/result_r.jpg)
 
 # [Querying Global Warming Datasets using SQL](https://github.com/Natashyatiro/Querying-Global-Warming-Datasets-using-SQL)
 * Created SQL Scripts to generate queries from 5 datasets regarding global warming using MySQL.
