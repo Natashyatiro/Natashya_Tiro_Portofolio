@@ -38,7 +38,7 @@ For each year (2008 to 2017), display the average [value] of temperature change 
 ![](/images/sql2.png)
 
 
-# [Querying Global Warming Datasets using SQL](https://github.com/Natashyatiro/Querying-Global-Warming-Datasets-in-noSQL)
+# [Querying Global Warming Datasets using noSQL](https://github.com/Natashyatiro/Querying-Global-Warming-Datasets-in-noSQL)
 * Created noSQL Scripts to generate queries from 5 datasets regarding global warming using MongoDB.
 * Queries Examples:
 
