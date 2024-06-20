@@ -2,7 +2,7 @@
 * Created a tool that predict loan amount and customer’s default based on customer’s age and income to help bank in automating their credit approval process.
 *	Optimized and compared Linear Regression, Decision Tree, Random Forest, GBoost, MLP Regressor, CNN, Random Forest Regressor Optimization to predict loan amount and to reach the best model using Python and Orange.
 *	The best model performance is by Regressor Optimization for Random Forest with 2456.62 RMSE in loan amount prediction, and Gradient Boosting with 85.88% accuracy in default prediction.
-* Built a client facing API using flask which can be accessed in this [Application Page](https://credit-approval-natashya.herokuapp.com).
+* Built a client facing API using flask.
 
 ![](/images/vis1.png)
 ![](/images/vis2.png)
