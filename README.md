@@ -30,4 +30,4 @@
 *	Visualized the data from combined datasets to find patterns and get meaningful insights.
 *	Forecasted and visualized CO2 emissions to 2050.
 *	Built interactive dashboard using Tableau. You can access through tableau public in this [link](https://public.tableau.com/views/WhoisResponsibleforClimateChange/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
-![](/images/Group%205%20Tableau%20Vfinal_page-0001.jpg)
+![](/images/Group 5 Tableau Vfinal-1.png)
